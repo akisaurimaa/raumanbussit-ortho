@@ -1,0 +1,39 @@
+{
+  "year": 2025,
+  "date": "2026-09-30",
+  "bbox": {
+    "lat_min": 61.05,
+    "lat_max": 61.2,
+    "lon_min": 21.35,
+    "lon_max": 21.7
+  },
+  "zmin": 13,
+  "zmax": 17,
+  "tile_count": 19646,
+  "tiles_per_zoom": {
+    "13": 72,
+    "14": 255,
+    "15": 957,
+    "16": 3770,
+    "17": 14592
+  },
+  "total_bytes": 384926811,
+  "sheets": [
+    "M3134D",
+    "M3134F",
+    "M3134H",
+    "M3143C",
+    "M3143D",
+    "M3143E",
+    "M3143F",
+    "M3143G",
+    "M3143H",
+    "M3144C",
+    "M3312A",
+    "M3312B",
+    "M3321A",
+    "M3321B"
+  ],
+  "missing_sheets": [],
+  "source": "Maanmittauslaitos, Ortokuva, CC BY 4.0"
+}
