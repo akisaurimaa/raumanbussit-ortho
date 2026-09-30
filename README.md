@@ -4,7 +4,7 @@ Itse isännöidyt XYZ-tiilet (`{z}/{x}/{y}.jpg`, zoomit 13-17) Rauman alueelta [
 
 Lähde: Maanmittauslaitos, Ortokuva, 2025, ladattu 2026-09-30, CC BY 4.0.
 
-Alue: leveys 61.05-61.2, pituus 21.35-21.7 (WGS84). Tiiliä 19646, yhteensä 385 Mt.
+Alue: leveys 61.05-61.2, pituus 21.35-21.7 (WGS84). Tiiliä 19536, yhteensä 383 Mt.
 
 ## Uudelleenluonti
 
