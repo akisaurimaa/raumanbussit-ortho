@@ -7,10 +7,12 @@
     "lon_min": 21.26953125,
     "lon_max": 21.708984375
   },
-  "zmin": 13,
+  "zmin": 11,
   "zmax": 17,
-  "tile_count": 30690,
+  "tile_count": 30724,
   "tiles_per_zoom": {
+    "11": 9,
+    "12": 25,
     "13": 90,
     "14": 360,
     "15": 1440,
@@ -24,7 +26,7 @@
     "16": 0,
     "17": 0
   },
-  "total_bytes": 537829003,
+  "total_bytes": 538392877,
   "sheets": [
     "M3134B",
     "M3134C",
@@ -52,5 +54,7 @@
     "M3322A"
   ],
   "missing_sheets": [],
-  "source": "Maanmittauslaitos, Ortokuva, CC BY 4.0"
+  "source": "Maanmittauslaitos, Ortokuva, CC BY 4.0",
+  "overview_bytes": 563874,
+  "note": "z11–12-tiilien puuttuvat reunat on täytetty muokkaamattomalla Sentinel-2-kuvalla (EOX Sentinel-2 cloudless 2025); z13–17 on pelkkää MML:n ortokuvaa."
 }
