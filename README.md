@@ -2,9 +2,9 @@
 
 Itse isännöidyt XYZ-tiilet (`{z}/{x}/{y}.jpg`, zoomit 13-17) Rauman alueelta [Rauman bussit](https://raumanbussit.azurewebsites.net) -sovelluksen 3D-näkymän ja kartan ilmakuvaa varten. Tiilet on tehty Maanmittauslaitoksen tiedostopalvelun 0,5 m ortokuvasta (JPEG2000), koska avoin WMTS-ortokuva on ylipakattua ja sumeaa.
 
-Lähde: Maanmittauslaitos, Ortokuva, 2025, ladattu 2026-09-30, CC BY 4.0.
+Lähde: Maanmittauslaitos, Ortokuva, 2025, ladattu 2026-10-26, CC BY 4.0.
 
-Alue: leveys 61.05-61.2, pituus 21.35-21.7 (WGS84). Tiiliä 19536, yhteensä 383 Mt.
+Alue: leveys 61.037012232401885-61.22795717667786, pituus 21.26953125-21.708984375 (WGS84). Tiiliä 30690, yhteensä 538 Mt.
 
 ## Uudelleenluonti
 
