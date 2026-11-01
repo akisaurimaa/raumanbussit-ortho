@@ -1,6 +1,6 @@
 {
   "year": 2025,
-  "date": "2026-10-26",
+  "date": "2026-11-01",
   "bbox": {
     "lat_min": 61.037012232401885,
     "lat_max": 61.22795717667786,
@@ -9,15 +9,15 @@
   },
   "zmin": 11,
   "zmax": 17,
-  "tile_count": 30724,
+  "tile_count": 38920,
   "tiles_per_zoom": {
-    "11": 9,
-    "12": 25,
-    "13": 90,
-    "14": 360,
-    "15": 1440,
-    "16": 5760,
-    "17": 23040
+    "11": 13,
+    "12": 33,
+    "13": 114,
+    "14": 456,
+    "15": 1824,
+    "16": 7296,
+    "17": 29184
   },
   "skipped_partial_per_zoom": {
     "13": 0,
@@ -26,8 +26,10 @@
     "16": 0,
     "17": 0
   },
-  "total_bytes": 538392877,
+  "total_bytes": 713866095,
   "sheets": [
+    "M3133F",
+    "M3133H",
     "M3134B",
     "M3134C",
     "M3134D",
@@ -47,14 +49,125 @@
     "M3144C",
     "M3144E",
     "M3144G",
+    "M3311B",
     "M3312A",
     "M3312B",
+    "M3312C",
+    "M3312D",
+    "M3312F",
     "M3321A",
     "M3321B",
+    "M3321C",
+    "M3321E",
     "M3322A"
   ],
   "missing_sheets": [],
   "source": "Maanmittauslaitos, Ortokuva, CC BY 4.0",
-  "overview_bytes": 563874,
-  "note": "z11–12-tiilien puuttuvat reunat on täytetty muokkaamattomalla Sentinel-2-kuvalla (EOX Sentinel-2 cloudless 2025); z13–17 on pelkkää MML:n ortokuvaa."
+  "overview_bytes": 780491,
+  "note": "z11–12-tiilien puuttuvat reunat on täytetty muokkaamattomalla Sentinel-2-kuvalla (EOX Sentinel-2 cloudless 2025); z13–17 on pelkkää MML:n ortokuvaa.",
+  "extra_z13": [
+    [
+      4585,
+      2331
+    ],
+    [
+      4586,
+      2331
+    ],
+    [
+      4586,
+      2332
+    ],
+    [
+      4586,
+      2333
+    ],
+    [
+      4587,
+      2332
+    ],
+    [
+      4587,
+      2333
+    ],
+    [
+      4587,
+      2334
+    ],
+    [
+      4589,
+      2331
+    ],
+    [
+      4589,
+      2332
+    ],
+    [
+      4590,
+      2326
+    ],
+    [
+      4590,
+      2327
+    ],
+    [
+      4590,
+      2328
+    ],
+    [
+      4590,
+      2329
+    ],
+    [
+      4591,
+      2326
+    ],
+    [
+      4591,
+      2327
+    ],
+    [
+      4591,
+      2328
+    ],
+    [
+      4591,
+      2329
+    ],
+    [
+      4591,
+      2330
+    ],
+    [
+      4592,
+      2326
+    ],
+    [
+      4592,
+      2327
+    ],
+    [
+      4592,
+      2328
+    ],
+    [
+      4592,
+      2329
+    ],
+    [
+      4593,
+      2327
+    ],
+    [
+      4593,
+      2328
+    ]
+  ],
+  "extra_buffer_m": 600,
+  "union_bbox": {
+    "lat_min": 60.95177680956698,
+    "lat_max": 61.22795717667786,
+    "lon_min": 21.26953125,
+    "lon_max": 21.884765625
+  }
 }
